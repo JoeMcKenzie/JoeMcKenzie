@@ -1,0 +1,167 @@
+body {
+	font-family: "Vibur", cursive;
+	font-weight: 400;
+	font-size: 60px;
+	color: #34cceb;
+	background-color: #000;
+}
+.header {
+	position: fixed;
+	background: #000;
+	width: 100%;
+	top: 0;
+	left: 0;
+	align-items: center;
+	justify-content: space-between;
+	display: flex;
+	z-index: 100;
+}
+.joseph {
+	font-size: 60px;
+	color: #34cceb;
+	text-decoration: none;
+	padding-left: 40px;
+}
+.navbar a {
+	font-size: 18px;
+	color: #34cceb;
+	text-decoration: none;
+	font-weight: 700;
+	padding-right: 50px;
+}
+.navbar{
+	padding-right: 100px;
+}
+.d2{
+	color: #fff;
+	padding-top: 200px;
+	width: 500px;
+	margin: auto;
+	font-family: sans-serif;
+}
+.d3{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 20px;
+	padding-top: 50px;
+}
+.d4{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 30px;
+}
+.d5{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	padding-top: 30px;
+}
+.d6{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	padding-top: 30px;
+}
+.d7{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	padding-top: 30px;
+}
+.d8{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	padding-top: 30px;
+}
+.l1{
+	text-align: left;
+}
+.s1{
+	font-size: 20px;
+}
+.s2{
+	font-size: 20px;
+}
+.s3{
+	font-size: 20px;
+}
+.s4{
+	font-size: 20px;
+}
+.d10{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 30px;
+}
+.d10 a{
+	text-decoration: none;
+	color: #fff;
+}
+.d11{
+	margin: auto;
+	text-align: center;
+}
+.top{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 30px;
+}
+.education{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	text-align: left;
+	padding-top: 30px;
+}
+.contact{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	text-align: left;
+	padding-top: 30px;
+}
+.work{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	text-align: left;
+	padding-top: 30px;
+}
+.skills{
+	color: #fff;
+	font-family: sans-serif;
+	width: 500px;
+	margin: auto;
+	font-size: 30px;
+	text-align: left;
+	padding-top: 30px;
+}
